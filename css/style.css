@@ -4,5 +4,9 @@
 /* reset */
 @import "./reset.css";
 
+/* cores */
+
+@import "./cores.css";
+
 /* global */
 @import "./globais.css";
