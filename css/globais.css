@@ -1,0 +1,31 @@
+
+.container-interface{
+    max-width: 1200px;
+    margin: 0 auto;
+  
+}
+
+
+.nav-menu-header {
+    display: flex;
+    padding: 1.5rem 10rem;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.span-logo {
+    font-family: 'Teko', sans-serif;
+    font-size: 2rem;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.nav-menu-header ul {
+    display: flex;
+    gap: 1.5rem;
+    color: #fff2e780;
+}
+
+.github {
+    color: #fff2e7;
+}

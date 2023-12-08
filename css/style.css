@@ -1,0 +1,8 @@
+/* fontes */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;900&family=Montserrat:wght@300;400;600;900&family=Roboto:wght@400;900&family=Teko:wght@600&display=swap');
+
+/* reset */
+@import "./reset.css";
+
+/* global */
+@import "./globais.css";
