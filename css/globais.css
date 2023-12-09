@@ -133,26 +133,31 @@
 
 .container-comentarios-cards {
     display: flex;
-    gap: 32px;
     flex-wrap: wrap;
     column-count: 2;
+    max-width: 1200px;
+    gap: 32px;
 }
+
+
 
 .comentrario-card-container {
     padding: 0 10rem;
     display: flex;
     flex-wrap: nowrap;
-    gap: 2rem;
+    
 }
 
 .interface-comentarios-cards {
     background-color: #241A1C;
+    min-width: 584px;
     padding: 2rem;
     gap: 24px; 
     border-radius: 10px;
     display: flex;
     flex-direction: column;
     padding-bottom: 64px;
+    
 }
 
 .interface-header-comentario {
